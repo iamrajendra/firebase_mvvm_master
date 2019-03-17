@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#99000000"
+    tools:context=".DialogActivity">
+    <RelativeLayout
+        android:layout_margin="10dp"
+        android:layout_centerVertical="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/mobile_no_et"
+            android:hint="mobile no"
+            android:inputType="number"
+            android:maxLength="10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <android.support.design.widget.FloatingActionButton
+    android:id="@+id/send_fab"
+           android:layout_alignParentRight="true"
+            android:layout_width="wrap_content"
+            app:backgroundTint="@color/colorAccent"
+
+            android:src="@android:drawable/ic_menu_send"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>
