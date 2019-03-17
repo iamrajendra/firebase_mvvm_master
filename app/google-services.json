@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "231135190644",
+    "firebase_url": "https://fir-mvvmmaster.firebaseio.com",
+    "project_id": "fir-mvvmmaster",
+    "storage_bucket": "fir-mvvmmaster.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231135190644:android:11ebbf1f692ac0ea",
+        "android_client_info": {
+          "package_name": "com.ravan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231135190644-amppv2pq67r0bhm2000347h449sbnld4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ravan",
+            "certificate_hash": "abf72f6f148f38de2e8104c7b20c5b1c36e30d7b"
+          }
+        },
+        {
+          "client_id": "231135190644-g98ao4ada0aoshav3uenu351go43d5fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgWlNSYCwWDmxZRdCGGihOPwZNXFIoIdY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231135190644-g98ao4ada0aoshav3uenu351go43d5fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

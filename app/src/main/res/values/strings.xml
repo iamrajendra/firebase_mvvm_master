@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">firebase_mvvm_master</string>
+    <string name="doc_patient">Doctors / Patient</string>
+</resources>
